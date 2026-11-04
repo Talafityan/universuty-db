@@ -40,3 +40,4 @@ Files
 * README.md - Project documentation.
 - `fixes.md` - Documentation of schema corrections.
 - `README.md` - Project documentation.
+- https://dbdiagram.io/d/University-DataBase-6aeadef5f1d298b5735af9a5
