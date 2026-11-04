@@ -22,7 +22,7 @@ See `fixes.md` for details.
 4. Classroom and course scheduling.
 
 ## Database Diagram
-Add your dbdiagram.io share link here.
+[Add your dbdiagram.io share link here](https://dbdiagram.io/d/University-DataBase-6aeadef5f1d298b5735af9a5).
 
 ## Files
 - `schema.dbml` - Database design.
