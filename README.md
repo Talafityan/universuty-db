@@ -1,31 +1,42 @@
 # University Database Project
 
 ## Project Description
+University Database Project
+
+Project Description
+
 A university database designed to manage departments, instructors, students, courses, and enrollments.
 
-## Main Tables
-- Departments
-- Instructors
-- Students
-- Courses
-- Enrollments
+Main Tables
 
-## Schema Corrections
+* Departments
+* Instructors
+* Students
+* Courses
+* Enrollments
+
+Schema Corrections
+
 The original database schema contained 12 design mistakes. These mistakes were identified and corrected.
 
-See `fixes.md` for details.
+See fixes.md for details.
 
-## Extended Features
+Extended Features
+
 1. Enrollment status (active, dropped, completed).
 2. Department heads.
 3. Course prerequisites.
 4. Classroom and course scheduling.
 
-## Database Diagram
-[Add your dbdiagram.io share link here](https://dbdiagram.io/d/University-DataBase-6aeadef5f1d298b5735af9a5).
+Database Diagram
 
-## Files
-- `schema.dbml` - Database design.
-- `schema.sql` - PostgreSQL SQL export.
+View University Database Diagram
+
+Files
+
+* schema.dbml - Database design.
+* schema.sql - PostgreSQL SQL export.
+* fixes.md - Documentation of schema corrections.
+* README.md - Project documentation.
 - `fixes.md` - Documentation of schema corrections.
 - `README.md` - Project documentation.
